@@ -1,6 +1,6 @@
 # USB Sicherheitsmonitor 
 
-Ein PowerShell-Skript zum Schutz vor gefährlichen USB-Geräten(Einfach externen Speichern, nicht unbedingt USB)  
+Ein PowerShell-Skript zum Schutz vor gefährlichen USB-Geräten
 
 ## Funktionen
  Überwacht angeschlossene USB-Sticks in Echtzeit  
